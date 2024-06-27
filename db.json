@@ -1,0 +1,445 @@
+{
+    "listCate": [
+        {
+            "id": 1,
+            "cateName": "Chăn ga cao cấp khách sạn",
+            "listProduct": [
+                {
+                    "id": 1,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 25,
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 20
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 15
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 30
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 2,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": "",
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m7 x 2m",
+                           "price": 1790000,
+                           "inventory": 10
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                           "inventory": 19
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                           "inventory": 24
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 3,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg"
+                    ],
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 30,
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "2 x 2m",
+                            "price": 2090000,
+                            "oldPrice": 2190000,
+                            "inventory": 20
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                            "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 0
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                            "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 28
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 4,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 21
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 4
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 50
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 5,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 20
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 21
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 22
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 6,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": "",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                           "inventory": 10
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                           "inventory": 21
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                           "inventory": 30
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 7,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 11
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 12
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 20
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "cateName": "Chăn ga cao cấp gia đình",
+            "listProduct": [
+                {
+                    "id": 8,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 20
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 21
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 32
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 9,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": "",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m5 x 2m",
+                           "price": 1590000,
+                           "inventory": 21
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                           "inventory": 10
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                           "inventory": 11
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 10,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "2m x 2m",
+                           "price": 2090000,
+                            "oldPrice": 2190000,
+                            "inventory": 20
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 22
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 21
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 11,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 22
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 23
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 24
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 12,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": 15,
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                            "oldPrice": 2190000,
+                            "inventory": 29
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                            "oldPrice": 1990000,
+                            "inventory": 28
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                            "oldPrice": 1390000,
+                            "inventory": 27
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                },
+                {
+                    "id": 13,
+                    "image": "../../src/assets/img/chan-ga-khach-san-1.png",
+                    "name": "Bộ chăn ga Changmi Bedding 100% cotton trắng sọc 3cm 300 sợi – 4 Món",
+                    "discount": "",
+                    "listImage" : [
+                        "../../src/assets/img/pro-detail-1.jpg",
+                        "../../src/assets/img/pro-detail-2.jpg",
+                        "../../src/assets/img/pro-detail-3.jpg"
+                    ],
+                    "sold": 14,
+                    "sizeAndPrice": [
+                        {
+                            "size": "1m8 x 2m",
+                           "price": 1890000,
+                           "inventory": 22
+                        },
+                        {
+                            "size": "1m6 x 2m",
+                           "price": 1690000,
+                           "inventory": 23
+                        },
+                        {
+                            "size": "1m1 x 2m",
+                           "price": 1190000,
+                           "inventory": 24
+                        }
+                    ],
+                    "detail": "tab 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!",
+                    "proDes": "tab 2 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quidem, nostrum sit officia velit ex tempora eaque perspiciatis iure ullam quam eos ad, nobis animi commodi ut rem accusantium quia!"
+                }
+            ]
+        }
+    ]
+}

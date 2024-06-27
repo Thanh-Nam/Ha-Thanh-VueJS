@@ -1,0 +1,6 @@
+@import './base.css';
+
+.container {
+  max-width: 1306px !important;
+  margin: auto;
+}

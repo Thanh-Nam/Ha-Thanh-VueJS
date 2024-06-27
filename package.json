@@ -1,0 +1,37 @@
+{
+  "name": "chan-ga-ha-thanh",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.5",
+    "axios": "^1.6.2",
+    "json-server": "^1.0.0-alpha.23",
+    "vue": "^3.3.10",
+    "vue-router": "^4.2.5",
+    "vue3-smooth-scroll": "^0.8.1",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@fancyapps/ui": "^5.0.30",
+    "@vitejs/plugin-vue": "^4.5.1",
+    "@vue/test-utils": "^2.4.3",
+    "autoprefixer": "^10.4.16",
+    "jsdom": "^23.0.1",
+    "postcss": "^8.4.32",
+    "swiper": "^11.0.5",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.5",
+    "vitest": "^1.0.1"
+  }
+}
